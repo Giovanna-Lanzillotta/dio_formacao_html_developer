@@ -4,5 +4,7 @@ Aqui estão os desafios e códigos do curso Formação HTML Developer da Dio.me
 
 ## 🐱‍💻Tecnologias Utilizadas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="5%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%"/>
+          
+
           
